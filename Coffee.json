@@ -47,13 +47,6 @@
         "maxShowCount": 5,
         "controlByShowCount": false,
 
-        "checkIntegrity": {
-        "forceClose": false,
-        "checkSize": false,
-        "expectedSize": 35252,
-        "checkMD5": false,
-        "expectedMD5": "f1f51b0c14f05ffc06d0e42e334e0bb7"
-        },
         
         "updateConfig": {
         "updateMonitor": false,
