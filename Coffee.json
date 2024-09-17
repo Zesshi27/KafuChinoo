@@ -84,9 +84,9 @@
 
         "checkIntegrity": {
         "forceClose": false,
-        "checkSize": false,
-        "expectedSize": 587028,
-        "checkMD5": false,
+        "checkSize": true,
+        "expectedSize": 535196,
+        "checkMD5": true,
         "expectedMD5": "40470fb16311462cf64d8be9271e5a0b"
         },
         
