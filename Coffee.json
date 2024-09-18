@@ -10,7 +10,7 @@
         "showPositiveButton": true,
         "positiveButtonText": "Maybe Later",
         "maxShowCount": 5,
-        "controlByShowCount": false,
+        "controlByShowCount": true,
 
         "checkIntegrity": {
         "forceClose": false,
@@ -45,7 +45,7 @@
         "showPositiveButton": true,
         "positiveButtonText": "Maybe Later",
         "maxShowCount": 5,
-        "controlByShowCount": false,
+        "controlByShowCount": true,
 
         "checkIntegrity": {
         "forceClose": false,
