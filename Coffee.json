@@ -37,7 +37,7 @@
         "com.captha.didymoi": {
         "credits": "@KafuHex",
         "showDialog": true,
-        "title": "Mod by @kafuHex",
+        "title": "Aplikasi ini di mod oleh kafuHex✨",
         "message": "telegram: https://t.me/Masked_Fools",
         "showNegativeButton": true,
         "negativeButtonText": "Join Channel",
@@ -45,7 +45,7 @@
         "showPositiveButton": true,
         "positiveButtonText": "Maybe Later",
         "maxShowCount": 5,
-        "controlByShowCount": true,
+        "controlByShowCount": false,
 
         "checkIntegrity": {
         "forceClose": false,
