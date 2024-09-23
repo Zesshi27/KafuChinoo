@@ -102,5 +102,40 @@
         "showUpdatePositiveButton": false,
         "updatePositiveButtonText": "Maybe Later"
         }
+    },
+
+    "com.hitv.savita": {
+        "credits": "@KafuHex",
+        "showDialog": true,
+        "title": "Mod by @kafuHex",
+        "message": "telegram: https://t.me/Masked_Fools",
+        "showNegativeButton": true,
+        "negativeButtonText": "Join Channel",
+        "negativeButtonUrl": "https://t.me/Masked_Fools",
+        "showPositiveButton": true,
+        "positiveButtonText": "Maybe Later",
+        "maxShowCount": 3,
+        "controlByShowCount": true,
+
+        "checkIntegrity": {
+        "forceClose": false,
+        "checkSize": false,
+        "expectedSize": 100572,
+        "checkMD5": false,
+        "expectedMD5": "f1f51b0c14f05ffc06d0e42e334e0bb7"
+        },
+        
+        "updateConfig": {
+        "updateMonitor": false,
+        "requiredVersion": "2.3.0.1",
+        "requiredVersionCode": 301,
+        "updateTitle": "Update Required",
+        "updateMessage": "A new version of the app is available",
+        "showUpdateNegativeButton": true,
+        "updateNegativeButtonText": "Update Now",
+        "updateNegativeButtonUrl": "https://t.me/Masked_Fools/125",
+        "showUpdatePositiveButton": false,
+        "updatePositiveButtonText": "Maybe Later"
+        }
     }
 }
