@@ -165,6 +165,7 @@
         "requiredVersionCode": 301,
         "updateTitle": "Update Required",
         "updateMessage": "A new version of the app is available",
+        "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg",
         "showUpdateNegativeButton": true,
         "updateNegativeButtonText": "Update Now",
         "updateNegativeButtonUrl": "https://t.me/Masked_Fools/125",
