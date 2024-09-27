@@ -16,7 +16,7 @@
         "maxShowCount": 3,
         "controlByShowCount": false,
         
-        "checkIntegrity": {
+        "signCheck": {
             "forceClose": false,
             "checkCRC32": true,
             "expectedCRC32": "0x572f0d51",
