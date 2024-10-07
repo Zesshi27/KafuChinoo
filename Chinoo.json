@@ -43,11 +43,11 @@
         }
     },
 
-    "tapharos.phigea": {
+    "bin.mt.signature": {
         "credits": "@KafuHex",
         "showDialog": true,
         "title": "Mod by @kafuHex",
-        "message": "telegram: https://t.me/TheHiddenFools",
+        "message": "https://raw.githubusercontent.com/Zesshi27/Project-test/refs/heads/main/Tes.html",
         "showTopButton": true,
         "topButtonText": "Join Channel",
         "topButtonUrl": "https://t.me/TheHiddenFools",
