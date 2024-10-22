@@ -97,7 +97,7 @@
         "topButtonUrl": "https://t.me/TheHiddenFools",
         "showBottomButton": true,
         "bottomButtonText": "Maybe Later",
-        "showSecretButton": true,
+        "showSecretButton": false,
         "secretButtonText": "Do not touch",
         "secretButtonUrl": "https://nhentai.net",
         "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg",
