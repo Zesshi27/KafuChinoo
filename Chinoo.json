@@ -26,9 +26,9 @@
         
         
         "updateConfig": {
-            "updateMonitor": false,
-            "requiredVersion": "9999",
-            "requiredVersionCode": 126,
+            "updateMonitor": true,
+            "requiredVersion": "2.18.0",
+            "requiredVersionCode": 74,
             "title": "Mod by @kafuHex",
             "message": "telegram: https://t.me/TheHiddenFools",
             "showTopButton": true,
