@@ -79,7 +79,7 @@
         "negativeButtonUrl": "https://t.me/caffeChinoo",
         "showPositiveButton": true,
         "positiveButtonText": "Maybe Later",
-        "maxShowCount": 4,
+        "maxShowCount": 5,
         "controlByShowCount": true,
 
         "checkIntegrity": {
