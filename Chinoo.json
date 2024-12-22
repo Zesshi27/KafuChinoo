@@ -51,7 +51,7 @@
         "showTopButton": true,
         "topButtonText": "Join Channel",
         "topButtonUrl": "https://t.me/caffeChinoo",
-        "showBottomButton": false,
+        "showBottomButton": true,
         "bottomButtonText": "Maybe Later",
         "showSecretButton": true,
         "secretButtonText": "Do not touch🥵",
