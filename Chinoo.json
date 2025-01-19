@@ -27,14 +27,14 @@
         
         "updateConfig": {
             "updateMonitor": true,
-            "requiredVersion": "3.1.2",
-            "requiredVersionCode": 74,
+            "requiredVersion": "3.2.1",
+            "requiredVersionCode": 83,
             "title": "Mod by kafu",
             "message": "there's an update",
             "showTopButton": true,
             "topButtonText": "update",
             "topButtonUrl": "https://t.me/caffeChinoo",
-            "showBottomButton": true,
+            "showBottomButton": false,
             "bottomButtonText": "Maybe Later",
             "showSecretButton": false,
             "secretButtonText": "test button",
